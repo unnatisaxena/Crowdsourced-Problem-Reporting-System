@@ -1,0 +1,12 @@
+user
+daniel.mart@gmail.com	Daniel@mart1
+Alice Smith', 'alice@example.com', 'alicepass',  
+Bob Johnson', 'bob@example.com', 'bobpass',  
+Emily Davis	emily.davis@gmail.com	1234
+Jane Smith – janesmith@gmail.com Jane@Smith2	
+
+
+admin
+Super Admin', 'superadmin@example.com', 'superpass'
+Olivia Tyalor	olivia.tyalor@gmail.com , Olivia@Tyalor5
+Sophia Wilson – sophia.wilson@gmail.com , Sophia@Wilson3
